@@ -1,12 +1,7 @@
-*i make what i want.*
-
-
 ### working on
 * [sledge](https://github.com/sledge-pdm/sledge) - pixel-based drawing app.
-* [fridge](https://github.com/sledge-pdm/fridge) - wysiwyg text editor / novel writer.
 
-
-### tech
+<!-- ### tech
 
 * learned
   <div>
@@ -30,3 +25,4 @@
     <img src="https://img.shields.io/badge/archlinux-202020.svg?logo=archlinux" />
     <img src="https://img.shields.io/badge/vitest-202020.svg?logo=vitest" />
   </div>
+-->
